@@ -65,6 +65,8 @@
     line-height: 32px;
     background-color: #000000;
     color: #ffffff;
+    border: 4px;
+    border-radius: 8px;
     
 }
 .text1{
